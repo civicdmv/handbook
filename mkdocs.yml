@@ -1,0 +1,21 @@
+site_name: CivicDMV
+site_url: https://civicdmv-handbook.readthedocs.io/en/latest/
+
+repo_url: https://github.com/civicdmv/handbook/
+
+theme:
+    name: readthedocs
+
+extra_css:
+    - css/extra.css
+
+plugins:
+    - search
+    
+pages:
+    - Welcome: README.md
+    - About: about.md
+    - Community: community.md
+    - Connect: connect.md
+    - Conduct: code.md
+    - Colophon: colophon.md
