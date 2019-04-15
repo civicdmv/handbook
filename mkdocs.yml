@@ -15,3 +15,4 @@ plugins:
 pages:
     - Welcome: README.md
     - About: about.md
+    - Colophon: colophon.md
