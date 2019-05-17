@@ -15,4 +15,6 @@ plugins:
 pages:
     - Welcome: README.md
     - About: about.md
+    - Community: community.md
+    - Connect: connect.md
     - Colophon: colophon.md
