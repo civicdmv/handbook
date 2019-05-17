@@ -1,5 +1,5 @@
 # Welcome
-Welcome to the CivicDMV handbook!
+Welcome to the [CivicDMV handbook](https://civicdmv-handbook.readthedocs.io/en/latest/)!
 
 ## Get started
 
