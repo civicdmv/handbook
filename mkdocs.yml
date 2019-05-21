@@ -15,6 +15,7 @@ plugins:
 pages:
     - Welcome: README.md
     - About: about.md
+    - Projects: projects.md    
     - Community: community.md
     - Connect: connect.md
     - Ops: ops.md
