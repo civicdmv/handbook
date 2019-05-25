@@ -2,11 +2,11 @@
 
 ## Purpose
 
-A primary goal of CivicDMV is to be inclusive to the largest number of participants, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of [CivicDMV](https://civicdmv.org) is to be inclusive to the largest number of participants, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in CivicDMV activities to help us create safe and positive experiences for everyone.
+We invite all those who participate in [CivicDMV](https://civicdmv.org) activities to help us create safe and positive experiences for everyone.
 
 ## Open source & culture citizenship
 
@@ -64,11 +64,12 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately. If
 
 ## Reporting guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing civicdmv@gmail.com.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing 
+@gmail.com.
 
 ## Addressing grievances
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the CivicDMV team at civicdmv@gmail.com with your appeal and the team will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the [CivicDMV](https://civicdmv.org) team at civicdmv@gmail.com with your appeal and the team will review the case.
 
 ## Scope
 
@@ -78,7 +79,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## Contact info
 
-CivicDMV, civicdmv@gmail.com
+[CivicDMV](https://civicdmv.org), civicdmv@gmail.com
 
 ## License and attribution
 
