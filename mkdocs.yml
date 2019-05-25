@@ -15,9 +15,10 @@ plugins:
 pages:
     - Welcome: README.md
     - About: about.md
-    - Code of conduct: conduct.md    
     - Projects: projects.md    
+    - Roadmap: roadmap.md    
     - Community: community.md
     - Connect: connect.md
     - Ops: ops.md
+    - Code of conduct: conduct.md    
     - Colophon: colophon.md
