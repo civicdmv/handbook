@@ -1,7 +1,7 @@
 # Projects
 
 * [Prototype DMV website](https://civicdmv.github.io/dmv-website/)
-* [DMV Web Standards](https://github.com/civicdmv/ops/issues/2)
+* [DMV Digital Standards](https://github.com/civicdmv/ops/issues/2)
 
 ## Ideas
 
