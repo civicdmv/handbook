@@ -1,6 +1,6 @@
 # Projects
 
-* [Prototype DMV website](https://civicdmv.github.io/dmv-website/)
+* [Prototype DMV website](https://github.com/civicdmv/dmv-website)
 * [DMV Digital Standards](https://github.com/civicdmv/ops/issues/2)
 
 ## How to start a new project
