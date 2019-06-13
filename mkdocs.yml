@@ -15,6 +15,7 @@ plugins:
 pages:
     - Welcome: README.md
     - About: about.md
+    - Principle: principles.md
     - Projects: projects.md    
     - Roadmap: roadmap.md
     - Community: community.md
