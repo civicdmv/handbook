@@ -15,7 +15,8 @@ plugins:
 pages:
     - Welcome: README.md
     - About: about.md
-    - Principle: principles.md
+    - Principles: principles.md
+    - Standards: standards.md
     - Projects: projects.md    
     - Roadmap: roadmap.md
     - Community: community.md
@@ -23,4 +24,5 @@ pages:
     - Connect: connect.md
     - Ops: ops.md
     - Conduct: conduct.md    
+    - Licensing: licensing.md    
     - Colophon: colophon.md
