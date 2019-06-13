@@ -15,6 +15,7 @@ plugins:
 pages:
     - Welcome: README.md
     - About: about.md
+    - Contribute: contribute.md
     - Principles: principles.md
     - Standards: standards.md
     - Projects: projects.md    
