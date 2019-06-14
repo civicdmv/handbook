@@ -9,8 +9,6 @@ Welcome to the [CivicDMV](https://civicdmv.org) handbook!
 
 ## Connect
 
-Follow [CivicDMV](https://civicdmv.org/) on:
-
 * [Twitter](https://twitter.com/civic_dmv/)
 * [LinkedIn](https://linkedin.com/company/civicdmv)
 * [Medium](https://medium.com/civicdmv)
