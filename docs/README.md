@@ -1,12 +1,6 @@
 # Welcome
 Welcome to the [CivicDMV](https://civicdmv.org) handbook!
 
-## Get started
-
-# Contribute
-
-There are many ways to get involved with [CivicDMV](https://civicdmv.org/).
-
 ## Get involved
 
 * [Join the community](https://join.slack.com/t/civicdmv/shared_invite/enQtNjEyNjEwMjQ4OTAzLWQ4M2FlMDI0NzNiNTNmNjc4YjY2N2FmNzYwMjE5Mzg5OGVkYzY5ZDhmNjljMGY0MWY4ZDI5MGZhM2Y5ZmRkYjM)
