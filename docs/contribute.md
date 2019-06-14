@@ -2,6 +2,15 @@
 
 There are many ways to get involved with [CivicDMV](https://civicdmv.org/).
 
+## Who should join
+
+* Designers
+* Developers
+* Civic hackers
+* Policymakers
+* Community organizers
+* General public
+
 ## Community
 
 [Join the CvicDMV community](https://join.slack.com/t/civicdmv/shared_invite/enQtNjEyNjEwMjQ4OTAzLWQ4M2FlMDI0NzNiNTNmNjc4YjY2N2FmNzYwMjE5Mzg5OGVkYzY5ZDhmNjljMGY0MWY4ZDI5MGZhM2Y5ZmRkYjM)
