@@ -39,7 +39,7 @@ We work in the open using GitHub, Slack and Google Apps.
 
 ### Projects
 
-- [ ] [Request CivicDMV GitHub org access](https://github.com/civicdmv/ops/issues/new?assignees=&labels=&template=github-org-access-request.md&title=GitHub+org+access+request) or 
+- [ ] [Request CivicDMV GitHub org access](https://github.com/civicdmv/ops/issues/new?assignees=&labels=&template=github-org-access-request.md&title=GitHub+org+access+request)
 
 Once approved: 
 
