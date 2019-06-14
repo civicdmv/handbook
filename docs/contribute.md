@@ -33,7 +33,7 @@ We work in the open using GitHub, Slack and Google Apps.
 - [ ] Read the [CivicDMV code of conduct](https://civicdmv-handbook.readthedocs.io/en/latest/conduct/)
 - [ ] [Join the CvicDMV community](https://join.slack.com/t/civicdmv/shared_invite/enQtNjEyNjEwMjQ4OTAzLWQ4M2FlMDI0NzNiNTNmNjc4YjY2N2FmNzYwMjE5Mzg5OGVkYzY5ZDhmNjljMGY0MWY4ZDI5MGZhM2Y5ZmRkYjM)
 - [ ] Update your Slack profile ([help](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile))
-- [ ] Register for [GitHub](https://github.com]
+- [ ] Register for [GitHub](https://github.com)
 - [ ] Update your GitHub profile ([help](https://help.github.com/en/articles/about-your-profile))
 - [ ] [Enable two-factor authentication](https://github.com/settings/security) on your GitHub account
 
