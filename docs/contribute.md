@@ -24,7 +24,15 @@ See the [CivicDMV projects](https://civicdmv-handbook.readthedocs.io/en/latest/p
 
 ## How we work
 
-We work in the open using GitHub, Slack and Google Apps.
+### Playbook
+
+We subscribe to the plays presented in the [U.S. Digital Services Playbook](https://playbook.cio.gov/).
+
+### Tools
+
+* GitHub
+* Slack
+* G Suite
 
 ## Onboarding
 
